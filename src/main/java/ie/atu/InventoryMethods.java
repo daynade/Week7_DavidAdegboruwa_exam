@@ -19,4 +19,7 @@ public class InventoryMethods {
     public void setQuantity(int quantity) {
         this.quantity = quantity;
     }
+
+    public void remove(int index) {
+    }
 }
