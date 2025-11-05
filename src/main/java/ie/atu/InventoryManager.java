@@ -11,4 +11,6 @@ public class InventoryManager {
         System.out.println("Enter the quantity of the product you want to store: ");
         int quantity = sc.nextInt();
     }
+
+
 }
